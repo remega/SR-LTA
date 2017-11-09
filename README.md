@@ -1,4 +1,4 @@
-# SR-LTA
+SR-LTA
 ==========
 
 The released code for paper " Bottom-up saliency detection with sparse representation of learnt texture atoms" ([link](http://www.sciencedirect.com/science/article/pii/S0031320316301078)) in PR2016, from Lai Jiang, Mai Xu in Beihang University(2016). 
